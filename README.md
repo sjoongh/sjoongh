@@ -37,8 +37,9 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 🌱 My Github stat
+## 🌱 My Github
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjoongh&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjoongh&langs_count=10&layout=compact&theme=dark)](https://github.com/sjoongh/sjoongh)
 
 ## 😄 My algorism stat
