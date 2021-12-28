@@ -33,11 +33,14 @@ Here are some ideas to get you started:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-🌱My Github stat
 
+# 🌱 My Github stat
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjoongh&count_private=true)
 
-[![az45687](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+# 😄 My algorism stat
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=az45687)](https://solved.ac/az45687)
 
 
 # 💻 TODO-LIST
