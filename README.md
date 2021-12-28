@@ -33,5 +33,10 @@ Here are some ideas to get you started:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+🌱My Github stat
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjoongh&count_private=true)
 
+# 💻 TODO-LIST
+1. Docker
+2. React
+3. ice project
