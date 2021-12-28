@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JoongHoShin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=blue&height=300&section=header&text=JoongHoShin&fontSize=90)
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](/README.md)
 [![#4FC08D](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](/README.md)
