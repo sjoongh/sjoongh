@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ## 🌱 My Github
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjoongh&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjoongh&langs_count=10&layout=compact&theme=dark)](https://github.com/sjoongh/sjoongh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjoongh&langs_count=10&layout=compact&theme=white)](https://github.com/sjoongh/sjoongh)
 
 ## 😄 My algorism stat
 [![Solved.ac
