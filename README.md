@@ -44,3 +44,6 @@ Here are some ideas to get you started:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjoongh&count_private=true)
+
