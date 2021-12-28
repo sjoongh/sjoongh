@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjoongh&count_private=true)
 
-[![Solved.ac
-az45687](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![az45687](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 # 💻 TODO-LIST
