@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjoongh&langs_count=10&layout=compact&theme=white)](https://github.com/sjoongh/sjoongh)
 
 ## TISTORY
-https://sjoongh.tistory.com/category
+https://sjoongh.tistory.com/
 
 ## 😄 My algorism stat
 [![Solved.ac
