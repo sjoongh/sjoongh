@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 ## TISTORY
 https://sjoongh.tistory.com/
 
+## notion
+https://topaz-almandine-3c0.notion.site/eee53a34d1044dae91dc430e006f6681
+
 ## 😄 My algorism stat
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=az45687)](https://solved.ac/az45687)
