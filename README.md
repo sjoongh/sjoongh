@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjoongh&langs_count=10&layout=compact&theme=white)](https://github.com/sjoongh/sjoongh)
 
-## TISTORY
+## ✨ TISTORY
 https://sjoongh.tistory.com/
 
-## NOTION
+## ✨ NOTION
 https://topaz-almandine-3c0.notion.site/eee53a34d1044dae91dc430e006f6681
 
 ## 😄 My algorism stat
