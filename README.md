@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ## TISTORY
 https://sjoongh.tistory.com/
 
-## notion
+## NOTION
 https://topaz-almandine-3c0.notion.site/eee53a34d1044dae91dc430e006f6681
 
 ## 😄 My algorism stat
