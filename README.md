@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![bootstrap](https://img.shields.io/badge/bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=#7952B3)
-![Springboot](https://img.shields.io/badge/-spring-green?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=#7952B3)
+![Spring](https://img.shields.io/badge/-spring-green?style=for-the-badge)
 
 ### Etc
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
