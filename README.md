@@ -52,9 +52,6 @@ https://topaz-almandine-3c0.notion.site/eee53a34d1044dae91dc430e006f6681
 
 
 ## 💻 TODO-LIST
-1. React
-2. ice project
-3. js 개인 프로젝트(fix)
-4. movie(F fix)
-5. mini project(M fix)
-6. vanilla js(B fix)
+1. ice project
+2. js 개인 프로젝트(fix)
+3. vanilla js(B fix)
