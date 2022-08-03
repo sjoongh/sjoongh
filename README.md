@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JoongHoShin&fontSize=90)
 
 ## 🔭 Career
-**더존비즈온** 2022. 08 ~
+**더존비즈온** : 2022. 08 ~
 
 ## 🎯 Skills
 ### Language & tools
