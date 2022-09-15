@@ -58,5 +58,5 @@ https://topaz-almandine-3c0.notion.site/eee53a34d1044dae91dc430e006f6681
 
 ## 💻 TODO-LIST
 1. ice project
-2. Typescript
-3. Docker
+2. k8s
+3. Kotlin
