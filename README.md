@@ -55,9 +55,6 @@ https://topaz-almandine-3c0.notion.site/eee53a34d1044dae91dc430e006f6681
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=az45687)](https://solved.ac/az45687)
 
-## WAKATIME
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[az45687@naver.com])](https://wakatime.com/@jogilsang)
-
 ## 💻 TODO-LIST
 1. ice project
 2. k8s
