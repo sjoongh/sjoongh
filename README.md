@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjoongh&langs_count=10&layout=compact&theme=white)](https://github.com/sjoongh/sjoongh)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sjoongh)](https://github.com/anuraghazra/github-readme-stats)
-
 ## ✨ TISTORY
 https://sjoongh.tistory.com/
 
