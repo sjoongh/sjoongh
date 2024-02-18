@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ## ✨ TISTORY
 https://sjoongh.tistory.com/
 
-## ✨ NOTION
+## ✨ NOTION(포트폴리오)
 https://topaz-almandine-3c0.notion.site/eee53a34d1044dae91dc430e006f6681
 
 ## 😄 My algorism stat
