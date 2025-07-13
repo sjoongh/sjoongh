@@ -48,5 +48,4 @@ https://topaz-almandine-3c0.notion.site/eee53a34d1044dae91dc430e006f6681
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=az45687)](https://solved.ac/az45687)
 
 ## 💻 TODO-LIST
-1. https://fragrant-atom-9f7.notion.site/kotlin-Project-44d2134463a449a2aee6edfa7d08b939 정리
-2. 도메인 설계 / TDD 방법론 / 리팩토링 책 정리 및 문서화 작업
+1. 도메인 설계 / TDD 방법론 / 리팩토링 책 정리 및 문서화 작업
