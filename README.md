@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JoongHoShin&fontSize=90)
 
 ## 🔭 Career
-**더존비즈온** : 2022. 08 ~ 2025. 01
-**롯데손해보험** : 2025. 02 ~ 재직 중
 
 ## 🎯 Skills
 ### Language & tools
